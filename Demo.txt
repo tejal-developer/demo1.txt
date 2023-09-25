@@ -1,0 +1,7 @@
+Example of gitbash and github
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document</title>
+</head>
+</html>
